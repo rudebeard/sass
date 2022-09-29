@@ -1,0 +1,23 @@
+{
+  "name": "sass",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "sass": "sass sass/main.scss:dist/css/main.css --watch --no-source-map"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rudebeard/sass.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rudebeard/sass/issues"
+  },
+  "homepage": "https://github.com/rudebeard/sass#readme",
+  "devDependencies": {
+    "sass": "^1.55.0"
+  }
+}
